@@ -1,5 +1,5 @@
 //let fixed na,value change kra jabe
-let Name ="sumona"
+let Name ="Othy"
 console.log(Name)
 Name ="Mehevien Sumona"
 console.log(Name)
